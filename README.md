@@ -1,1 +1,1 @@
-This is blog websit on Django was deployed on Railway
+This is blog website on Django was deployed on Railway
